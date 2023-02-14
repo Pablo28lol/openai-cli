@@ -1,0 +1,3 @@
+pip install --upgrade openai
+export OPENAI_API_KEY="<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>"
+openai tools fine_tunes.prepare_data -f <Diskete2WM2>
